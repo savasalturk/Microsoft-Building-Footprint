@@ -48,8 +48,11 @@ CREATE INDEX microsoftbuildingfootprint_geom_idx
 ```
 
 ### **Genel bilgiler:**
-- 18,064,082 polygon 
-
+- Toplam 18,064,082 polygon 
+- İstanbul: 827,478 polygon
+- Ankara: 707,869 polygon
+- İzmir: 916,122 polygon
+- Van: 211,634 polygon
 - İstanbul:
     - ![ornekalan](./img/istanbul.JPG)
 
