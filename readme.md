@@ -59,7 +59,7 @@ CREATE INDEX microsoftbuildingfootprint_geom_idx
     - ![ornekalan](./img/istanbul.JPG)
 
 - Beşiktaş, Şişli:
-    - ![ornekalan](./img/ornekpolygon.JPG)
+    - ![ornekalan](./img/besiktassisli.JPG)
 - Van:
     - ![ornekalan](./img/van.JPG)
 - Bazı bölgelerde veri eksik.
