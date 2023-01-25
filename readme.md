@@ -1,9 +1,11 @@
-# Bina ayak izi verisi
+# Building Footprint - Turkey
 
 Açık verinin önemi gün geçtikçe daha da önem kazanıyor. Geçen yıl Microsoft bina ayak izlerinin olduğu verileri paylaştı.
 Microsoftun açık veri olarak yayınladığı bina ayak izi verilerine [buradan](https://github.com/microsoft/GlobalMLBuildingFootprints) ulaşabilirsiniz. 
 
->  **Not:** Github sayfasında ekim ayında güncelleme yapılmış. Daha önceki veriler ülkelere ve bölgelere göre linkleri ayrı olarak eklenmişti. Ben ekim ayı öncesindeki verileri indirmiştim. Dosya geojson formatında ve 5.5 GB boyutundaydı. Detaylı incelemek isterseniz paylaştığım github sayfasına bakabilirsiniz.
+>  **Not-1:** Github sayfasında ekim ayında güncelleme yapılmış. Daha önceki veriler ülkelere ve bölgelere göre linkleri ayrı olarak eklenmişti. Ben ekim ayı öncesindeki verileri indirmiştim. Dosya geojson formatında ve 5.5 GB boyutundaydı. Detaylı incelemek isterseniz paylaştığım github sayfasına bakabilirsiniz.
+
+>  **Not-2:** Bu veride hatalı veya eksik bina ayak izi olabilir.
 
 
 ## Aşama 1
