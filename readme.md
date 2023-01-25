@@ -51,15 +51,15 @@ CREATE INDEX microsoftbuildingfootprint_geom_idx
 - 18,064,082 polygon 
 
 - İstanbul:
-    - ![ornekalan](img\istanbul.JPG)
+    - ![ornekalan](./img/istanbul.JPG)
 
 - Beşiktaş, Şişli:
-    - ![ornekalan](img\ornekpolygon.JPG)
+    - ![ornekalan](./img/ornekpolygon.JPG)
 - Van:
-    - ![ornekalan](img\van.JPG)
+    - ![ornekalan](./img/van.JPG)
 - Bazı bölgelerde veri eksik.
-    - ![Görsel](img\eksik1.JPG)
-    - ![Görsel](img\eksik2.JPG)
+    - ![Görsel](./img/eksik1.JPG)
+    - ![Görsel](./img/eksik2.JPG)
 
 
 ## Aşama 2
@@ -155,4 +155,4 @@ plt.close()
 
 
 
-![Görsel](img\vis.png)
+![Görsel](./img/vis.png)
